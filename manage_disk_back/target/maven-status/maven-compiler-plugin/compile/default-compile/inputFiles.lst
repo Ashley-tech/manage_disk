@@ -1,0 +1,17 @@
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\config\AuthService.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\config\EmailService.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\config\SecurityConfig.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\config\WebConfig.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\controller\DisqueController.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\controller\NotificationController.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\controller\UtilisateurController.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\dto\CreateDisqueRequest.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\dto\LoginRequest.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\dto\LoginResponse.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\dto\NouveauUtilisateurRequest.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\dto\OperationRequest.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\ManageDiskBackApplication.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\model\Disque.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\model\Utilisateur.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\repository\DisqueRepository.java
+C:\Users\Ashley (etu-arakoto)\Documents\Informatique\Manage Disk\manage_disk_back\src\main\java\com\example\manage_disk_back\repository\UtilisateurRepository.java
