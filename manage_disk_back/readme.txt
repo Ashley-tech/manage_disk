@@ -1,0 +1,2 @@
+-Pense à modifier les identifiants concernant PostgreSQL
+-Crée un fichier application-local.propertes dans /src/resources ou tu insérera EMAIL_USER et EMAIL_PWD

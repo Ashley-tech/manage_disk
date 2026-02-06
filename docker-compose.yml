@@ -1,0 +1,36 @@
+version: "3.8"
+
+services:
+  db:
+    image: postgres:15
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: root
+      POSTGRES_DB: db_manage_vdisk_2
+    ports:
+      - "5431:5432"
+    container_name: vmdb
+    restart: unless-stopped
+
+  back:
+    build: ./manage_disk_back
+    ports:
+      - "8079:8079"
+    environment:
+      - SERVER_PORT=8079
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://db:5432/db_manage_vdisk_2
+      - SPRING_DATASOURCE_USERNAME=postgres
+      - SPRING_DATASOURCE_PASSWORD=root
+    depends_on:
+      - db
+    container_name: vmback
+    restart: unless-stopped
+
+  front:
+    build: ./manage_disk_front
+    ports:
+      - "8078:8081"
+    container_name: vmfront
+    depends_on:
+      - back
+    restart: unless-stopped
